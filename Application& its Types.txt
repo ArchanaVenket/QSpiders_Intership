@@ -1,0 +1,44 @@
+APPLICATION
+
+Application: Collection of Software
+Software : Collection of Program
+Program : Set of Instructions to Communicate with Machine
+
+TYPES OF APPLICATION:
+
+1. Standalone Application
+2. Web Application
+3. Client Server / Mobile Application
+
+Explanation:
+
+1. Standalone Application:
+	Any Application which can be accessible in the single device and does not require any addtional features is known as stand alone applications 
+  Eg : Browser, Calculator
+Characteristics:
+	1.Installation is Required
+	2.Internet is not Required
+	3.Data Stored Locally/Database not required
+
+2. Web Application
+	Any Application opens through the Browser is known as Web Applications 
+  Eg : WhatsApp Web
+Characteristics:
+	1.Installation is not Required
+	2.Internet is  Required
+	3.Data Stored Locally/Database  required
+
+
+
+3. Client Server / Mobile Application
+	Any Server Application which is accesible client Application it is known as client/server Application(MObile Application)
+  Eg : WhatsApp
+Characteristics:
+	1.Installation is Required
+	2.Internet is  Required
+	3.Data Stored Locally/Database  required
+
+
+
+	 
+	
