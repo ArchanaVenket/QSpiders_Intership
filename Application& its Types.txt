@@ -20,6 +20,7 @@ Characteristics:
 	2.Internet is not Required
 	3.Data Stored Locally/Database not required
 
+
 2. Web Application
 	Any Application opens through the Browser is known as Web Applications 
   Eg : WhatsApp Web
@@ -39,6 +40,11 @@ Characteristics:
 	3.Data Stored Locally/Database  required
 
 
+
+4.Hybrid Application
+	It is a Combination of standalone & client Server Applications.
+	It act as a standalone if internet is not connected.
+	It act as a client server Application if internet is connected.
 
 	 
 	
