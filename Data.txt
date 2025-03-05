@@ -1,0 +1,12 @@
+DATA:
+	Data or the "Raw Facts" which describes "attributes" of an "Entity".
+	
+	
+	Properties / Attributes				Values
+	
+	RAM						:		15Gb
+	ROM						:		1Tb
+	Processor 				:		Intel
+	OS						:		Windows
+	Price					:		70000
+	
