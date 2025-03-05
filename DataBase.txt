@@ -1,0 +1,10 @@
+DataBase:
+
+	DB is the Place of Matter Where we are Storing the data in systematic and organised manner.
+	The Operation Performed on the database are
+		1.Create(C) / Insert
+		2.read(R) / retrive
+		3.update(U) / modify
+		4.delete (D)/ drop
+
+	These operations universaly as CURD operation
