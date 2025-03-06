@@ -1,0 +1,7 @@
+	DATBASE:	
+		Database is a software which will manage the Database.	
+		The 2 important features provided by the DBMS are
+			1.Security
+			2.Authorization
+		To communicate or interact with DBMS software we are using a language "Query Language".
+	
