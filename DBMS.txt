@@ -4,4 +4,10 @@
 			1.Security
 			2.Authorization
 		To communicate or interact with DBMS software we are using a language "Query Language".
+
+		Types Of DMBS:
+			1.Hierarchical Database Management System
+			2.Network Database Management System
+			3.Object Oriented Database Management System
+			4.Relational Database Management System
 	
