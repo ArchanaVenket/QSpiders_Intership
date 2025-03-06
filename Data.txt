@@ -6,7 +6,7 @@ DATA:
 	
 	RAM						:		15Gb
 	ROM						:		1Tb
-	Processor 				:		Intel
+	Processor 					:		Intel
 	OS						:		Windows
-	Price					:		70000
+	Price						:		70000
 	
